@@ -18,7 +18,7 @@ To get this project up and running locally, you must already have ruby and rails
 **Setup**
 
 - Clone this repository with `https://github.com/mcihadkurel/members-only.git` using your terminal or command line.<br>
-- Change to the project directory by entering `cd member-only` in the terminal<br>
+- Change to the project directory by entering `cd members-only` in the terminal<br>
 - Next run `bundle install` to install the necessary dependencies<br>
 - run `rails db:create`
 - Run `rails db:migrate` to setup your local database.<br>
